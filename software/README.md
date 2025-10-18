@@ -11,6 +11,11 @@ To build your own grandMA3 onPC system, you need the following software:
 After downloading the software, you can start installing it on your computer. When finished, you can start configuring the software to your needs:
 
 ## Configuring Chataigne
+Download this [repository](https://github.com/einlichtvogel/grandMA3-Feedback-Chataigne-Module/) and put it into your Chataigne 'modules' folder. The default location is:
+- Windows: `C:\Users\<Username>\Documents\Chataigne\modules`
+- Mac: `/Users/<Username>/Documents/Chataigne/modules`
+
+Then:
 1. Open Chataigne
 2. Load the File 'APC_TO_MA3.noisette' from the 'software/chataigne' folder in this repository
 3. Click on 'APC Mini mkII' on the left 'Modules' section
@@ -48,7 +53,7 @@ In this file you get a preconfigured Command Wing layout and a Numpad layout wit
 
 ## Configuring grandMA3 onPC
 1. Open grandMA3 onPC and load your showfile
-2. Copy the **files or folders** from the **folders** "grandma3/ChataigneSync" and "grandma3/QuickeyCreator" to "C:\ProgramData\MALightingTechnology\gma3_library\datapools\plugins"
+2. Copy the "grandMA3_OSC_Feedback_3.0.0.3" folder from the previously downloaded repository (grandMA3-Feedback-Chataigne-Module) and the "grandma3/QuickeyCreator" folder to "C:\ProgramData\MALightingTechnology\gma3_library\datapools\plugins"
 3. Open your Plugin Pool, create a new plugin, and click import below. Do this for both files.
 
 4. Run the "Command Wing Quickey Creator" Plugin. This will create all the Quickeys and OSC Outputs needed for the OSC commands from Companion.

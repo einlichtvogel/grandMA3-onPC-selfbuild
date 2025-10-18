@@ -20,5 +20,3 @@ Read further in the dedicated folder [here](hardware/README.md).
 
 ## What software do I need to build my own grandMA3 onPC system?
 Read further in the dedicated folder [here](software/README.md).
-
-
