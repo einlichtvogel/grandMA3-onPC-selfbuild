@@ -31,6 +31,11 @@ Chataigne uses following ports:
 
 This software needs to run as long as you want to sync your Akai to GrandMA3.
 
+The button layout for the left AKAI:
+![akai_left.png](images/akai_left.png)
+And for the right AKAI:
+![akai_right.png](images/akai_right.png)
+
 ## Configuring Bitfocus Companion
 1. Download the Companion config file '[GrandMA3_OSC_QK_Names_and_Numpad_v2.companionconfig](companion/GrandMA3_OSC_QK_Names_and_Numpad_v2.companionconfig)' from the 'software/companion' folder in this repository
 2. Open the Web Interface of Bitfocus Companion
